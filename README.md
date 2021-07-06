@@ -7,4 +7,4 @@ Tools, programming languages and other:
 * Frontend: ReactJS, NextJS
 * Backend: NodeJS, ExpressJS
 * Database: MongoDB (Mongoose)
-* Other: socket.io
+* Other: socket.io, Redux, Internalization (i18n), SEO
