@@ -1,4 +1,10 @@
 # VueCar
+### Check car history by VIN
+
 https://vuecar.info
 
-## Web application for checking vehicle history by VIN.
+Tools, programming languages and other:
+* Frontend: ReactJS, NextJS
+* Backend: NodeJS, ExpressJS
+* Database: MongoDB (Mongoose)
+* Other: socket.io
